@@ -16,7 +16,7 @@ Download and run the install.sh script by Greenscreener.
 1. Install Python
 	* It is probably installed
 	* Python2 should be fine, but Python3 is recommended
-	* `apt install python` `pacman -Syu python` `zypper in python3`...
+	* `apt install python` `pacman -Syu python`...
 2. Clone this repo
 	* If you don't have git, install it (see the first step)
 	* `git clone --recurse-submodules https://github.com/vojta001/bakalariCmd`
