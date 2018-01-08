@@ -11,7 +11,7 @@
 
 ## Instalation
 ### The easy way
-Download and run the install.sh script by Greenscreener.
+*WIP* :(
 ### The difficult, bad and unrecommended way
 1. Install Python
 	* It is probably installed
