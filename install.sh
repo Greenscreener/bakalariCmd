@@ -1,4 +1,4 @@
-#/bin/bash
+#!/bin/bash
 python3version=$(python3 -c 'import sys; print(sys.version_info[:])');
 if [ $? != 0 ]; then
 	python2version=$(python -c 'import sys; print(sys.version_info[:])');
